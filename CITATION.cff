@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the associated manuscript."
+type: software
+title: >-
+  Coffee consumption and atrial fibrillation: total-effect triangulation and
+  network Mendelian randomization — analysis code
+authors:
+  - family-names: Cao
+    given-names: Zezhong
+    email: 092594@yzu.edu.cn
+    affiliation: >-
+      Department of Cardiology, Yangzhou University Affiliated Hospital
+      (Yangzhou First People's Hospital), Yangzhou, Jiangsu, China
+  - family-names: Chen
+    given-names: Rongrong
+    email: chenrrxh@126.com
+    affiliation: >-
+      Department of Cardiology, Yangzhou University Affiliated Hospital
+      (Yangzhou First People's Hospital), Yangzhou, Jiangsu, China
+version: 1.0.0
+date-released: 2026-08-13
+license: MIT
+# Repository is live; after Zenodo archives a release, add the minted DOI here as "doi:".
+repository-code: "https://github.com/caozezhong1996/coffee-af-mr"
+keywords:
+  - Mendelian randomization
+  - atrial fibrillation
+  - coffee
+  - caffeine
+  - mediation analysis
+  - pharmacovigilance
+  - FAERS
