@@ -20,7 +20,7 @@ authors:
 version: 1.0.0
 date-released: 2026-08-13
 license: MIT
-# Repository is live; after Zenodo archives a release, add the minted DOI here as "doi:".
+doi: 10.5281/zenodo.21981929
 repository-code: "https://github.com/caozezhong1996/coffee-af-mr"
 keywords:
   - Mendelian randomization
