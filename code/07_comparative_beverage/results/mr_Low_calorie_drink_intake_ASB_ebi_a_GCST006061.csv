@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-19703,ebi-a-GCST006061,ebi-a-GCST006061,Low-calorie drink intake ASB,Inverse variance weighted,17,-0.109088599259537,0.0747787354566543,0.144615081997412
+ukb-b-19703,ebi-a-GCST006061,ebi-a-GCST006061,Low-calorie drink intake ASB,MR Egger,17,-0.158317833940702,0.160857433670437,0.340621202348711
+ukb-b-19703,ebi-a-GCST006061,ebi-a-GCST006061,Low-calorie drink intake ASB,Weighted median,17,-0.0848030296695072,0.100450364823833,0.398541904822075
+ukb-b-19703,ebi-a-GCST006061,ebi-a-GCST006061,Low-calorie drink intake ASB,Weighted mode,17,-0.0858274813733017,0.166322590082441,0.612890844183388

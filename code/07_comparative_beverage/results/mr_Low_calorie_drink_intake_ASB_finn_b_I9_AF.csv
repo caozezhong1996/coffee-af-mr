@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-19703,finn-b-I9_AF,finn-b-I9_AF,Low-calorie drink intake ASB,Inverse variance weighted,19,0.045591804210645,0.122151782403982,0.708970602016259
+ukb-b-19703,finn-b-I9_AF,finn-b-I9_AF,Low-calorie drink intake ASB,MR Egger,19,-0.287348760542642,0.226738090030604,0.22212831812857
+ukb-b-19703,finn-b-I9_AF,finn-b-I9_AF,Low-calorie drink intake ASB,Weighted median,19,-0.0689016552909512,0.180894157913977,0.70328126526211
+ukb-b-19703,finn-b-I9_AF,finn-b-I9_AF,Low-calorie drink intake ASB,Weighted mode,19,-0.168370835040625,0.213356955982767,0.440295303952563

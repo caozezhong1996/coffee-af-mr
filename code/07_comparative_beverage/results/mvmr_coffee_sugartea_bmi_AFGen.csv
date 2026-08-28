@@ -1,0 +1,4 @@
+id.exposure,exposure,id.outcome,outcome,nsnp,b,se,pval,exposure_label
+ieu-b-40,body mass index || id:ieu-b-40,ebi-a-GCST006061,Atrial fibrillation (AFGen 2018),431,0.333860311231067,0.0399564085471723,6.50934492076804e-17,
+ukb-b-5237,Coffee intake || id:ukb-b-5237,ebi-a-GCST006061,Atrial fibrillation (AFGen 2018),13,-0.0589855423065083,0.133577646838016,0.658791398214903,
+ukb-b-8442,Intake of sugar added to tea || id:ukb-b-8442,ebi-a-GCST006061,Atrial fibrillation (AFGen 2018),1,0.00395116100695523,0.117915491160698,0.973269156793667,

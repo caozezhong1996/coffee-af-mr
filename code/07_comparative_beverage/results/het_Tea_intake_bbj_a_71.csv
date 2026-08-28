@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+ukb-b-6066,bbj-a-71,bbj-a-71,Tea intake,MR Egger,67.2402880748707,34,0.000583523368080202
+ukb-b-6066,bbj-a-71,bbj-a-71,Tea intake,Inverse variance weighted,69.2540472389706,35,0.000492488866437633

@@ -46,3 +46,35 @@ Access dates: 2026-08-05 to 2026-08-08.
 | Source | Access | Scope |
 |---|---|---|
 | FDA Adverse Event Reporting System (FAERS) via openFDA | <https://api.fda.gov/drug/event.json> (no key required for low-volume queries) | 11,882,970 serious reports screened; query strings embedded in `code/04_pharmacovigilance/faers_rebuild.py` and Supplementary Table S5 |
+
+## Comparative beverage-behavior and cross-ancestry module (v1.2)
+
+| Role | Phenotype | Source | ID / access |
+|---|---|---|---|
+| Corroborating outcome | Atrial fibrillation | AFGen 2018 (Roselli et al.) | `ebi-a-GCST006061` (65,446 cases) |
+| Comparative outcome | Atrial fibrillation (`I9_AF`, frozen endpoint) | FinnGen (OpenGWAS freeze) | `finn-b-I9_AF` |
+| East Asian outcome | Atrial fibrillation | BioBank Japan | `bbj-a-71` |
+| Comparative exposure | Tea intake | UK Biobank | `ukb-b-6066` |
+| Comparative exposure | Sugar added to coffee | UK Biobank | `ukb-b-243` |
+| Comparative exposure | Sugar added to tea | UK Biobank | `ukb-b-8442` |
+| Comparative exposure | Fizzy-drink intake (sugar-sweetened) | UK Biobank | `ukb-b-2832` |
+| Comparative exposure | Low-calorie-drink intake (artificially sweetened) | UK Biobank | `ukb-b-19703` |
+| Comparative exposure | Artificial sweetener added to tea | UK Biobank | `ukb-b-5867` |
+| MVMR covariate | Body mass index | GIANT + UK Biobank | `ieu-b-40` |
+| East Asian replication exposure | Coffee consumption | Miyazawa et al. 2024 (BBJ) | harmonized in `revision_outputs/bbj_harmonized.csv` |
+
+## Observational dose-response meta-analysis (v1.2)
+
+| Source | Access | Scope |
+|---|---|---|
+| PubMed / Europe PMC | search and full-text XML via NCBI E-utilities and Europe PMC (`pmids.txt` in `code/08_observational_meta/`) | Updated Greenland–Longnecker dose-response meta-analysis of prospective cohorts; per-cup trends, high-vs-low contrast, leave-one-out |
+
+## Locus-level colocalization (v1.2)
+
+| Role | Phenotype | Source | ID / access |
+|---|---|---|---|
+| Exposure | Coffee intake | UK Biobank (IEU OpenGWAS, VCF via OCI) | `ukb-b-5237` (`ukb-b-5237.vcf.gz`, ~300 MB, downloaded by `code/09_colocalization/download_vcf.py`; not stored in this repository) |
+| Outcome | Atrial fibrillation | FinnGen R11 summary statistics | `finngen_R11_I9_AF.gz` (<https://r11.finngen.fi/>) |
+| Outcome | Atrial fibrillation | Nielsen et al. 2018 summary statistics | `ebi-a-GCST006414` (OpenGWAS `/associations` endpoint, chunked by `fetch`-style queries) |
+
+Windows analysed: ±500 kb around the lead coffee SNP at five loci (FTO, TMEM18, CYP1A1–CYP1A2, AHR, PCMTD2). The PCMTD2 window was re-anchored after a locus-assignment audit (rs6062682, GRCh38 chr20:64,260,467; verified against `finngen_R11_I9_AF.gz`) — see `run_coloc_pcmtd2.R`. Curated per-window extracts used by the coloc runs are versioned under `code/09_colocalization/`.

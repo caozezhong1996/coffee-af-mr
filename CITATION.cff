@@ -17,8 +17,8 @@ authors:
     affiliation: >-
       Department of Cardiology, Yangzhou University Affiliated Hospital
       (Yangzhou First People's Hospital), Yangzhou, Jiangsu, China
-version: 1.0.0
-date-released: 2026-08-13
+version: 1.2.0
+date-released: 2026-08-28
 license: MIT
 doi: 10.5281/zenodo.21981929
 repository-code: "https://github.com/caozezhong1996/coffee-af-mr"

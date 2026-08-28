@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+ukb-b-6066,finn-b-I9_AF,finn-b-I9_AF,Tea intake,MR Egger,83.5056816830246,38,2.92341512091119e-05
+ukb-b-6066,finn-b-I9_AF,finn-b-I9_AF,Tea intake,Inverse variance weighted,91.283850082871,39,4.46037870732043e-06

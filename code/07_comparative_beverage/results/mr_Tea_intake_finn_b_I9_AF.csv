@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-6066,finn-b-I9_AF,finn-b-I9_AF,Tea intake,Inverse variance weighted,40,-0.296474856243357,0.218957376901385,0.175726807980928
+ukb-b-6066,finn-b-I9_AF,finn-b-I9_AF,Tea intake,MR Egger,40,0.482318377549687,0.465153110022933,0.306334852596024
+ukb-b-6066,finn-b-I9_AF,finn-b-I9_AF,Tea intake,Weighted median,40,0.0864094148435403,0.227844379517156,0.704504070079121
+ukb-b-6066,finn-b-I9_AF,finn-b-I9_AF,Tea intake,Weighted mode,40,0.214759182299563,0.220902509892183,0.336947533758455

@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+ukb-b-6066,ebi-a-GCST006061,ebi-a-GCST006061,Tea intake,MR Egger,57.9924580317383,30,0.00160020235552472
+ukb-b-6066,ebi-a-GCST006061,ebi-a-GCST006061,Tea intake,Inverse variance weighted,61.0217565213831,31,0.0010212622209972

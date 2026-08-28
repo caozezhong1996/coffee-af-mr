@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+ukb-b-8442,finn-b-I9_AF,finn-b-I9_AF,Sugar added to tea,MR Egger,38.5208411549166,18,0.00330297902052343
+ukb-b-8442,finn-b-I9_AF,finn-b-I9_AF,Sugar added to tea,Inverse variance weighted,38.52859370066,19,0.00507994698857267

@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+ukb-b-5867,finn-b-I9_AF,finn-b-I9_AF,Artificial sweetener added to tea,MR Egger,12.6225079729166,15,0.631429599527401
+ukb-b-5867,finn-b-I9_AF,finn-b-I9_AF,Artificial sweetener added to tea,Inverse variance weighted,13.1277569423225,16,0.663394629122103

@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-2832,ebi-a-GCST006061,ebi-a-GCST006061,Fizzy drink intake SSB,Inverse variance weighted,8,-0.284023203153332,0.195582513057847,0.14644845055824
+ukb-b-2832,ebi-a-GCST006061,ebi-a-GCST006061,Fizzy drink intake SSB,MR Egger,8,0.407944980652298,0.562276524396471,0.495443199866732
+ukb-b-2832,ebi-a-GCST006061,ebi-a-GCST006061,Fizzy drink intake SSB,Weighted median,8,-0.390791705490482,0.2060850642929,0.0579251330962444
+ukb-b-2832,ebi-a-GCST006061,ebi-a-GCST006061,Fizzy drink intake SSB,Weighted mode,8,-0.346709539844603,0.278001034941902,0.252449049671435

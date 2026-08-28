@@ -1,0 +1,8 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,exposure_label
+ukb-b-8442,ebi-a-GCST006061,"Atrial fibrillation (AFGen 2018, EUR)",Sugar added to tea,IVW radial,17,-0.0282439164990293,0.107615769327244,0.792973398133437,Sugar added to tea
+ukb-b-243,ebi-a-GCST006061,ebi-a-GCST006061,Sugar added to coffee,IVW radial,15,-0.216607245620407,0.0999695796530451,0.0302553268761571,Sugar added to coffee
+ukb-b-2832,ebi-a-GCST006061,ebi-a-GCST006061,Fizzy drink intake SSB,IVW radial,8,-0.283115366276124,0.195843830900914,0.148284376382443,Fizzy drink intake SSB
+ukb-b-19703,ebi-a-GCST006061,ebi-a-GCST006061,Low-calorie drink intake ASB,IVW radial,17,-0.109020864153807,0.0582501836560255,0.0612623902437012,Low-calorie drink intake ASB
+ukb-b-5867,ebi-a-GCST006061,ebi-a-GCST006061,Artificial sweetener added to tea,IVW radial,14,-0.00246753513729583,0.132303171663916,0.985119827209283,Artificial sweetener added to tea
+ukb-b-5237,ebi-a-GCST006061,ebi-a-GCST006061,Coffee intake,IVW radial,34,0.228691385636083,0.106034813866941,0.0310245600761409,Coffee intake
+ukb-b-6066,ebi-a-GCST006061,ebi-a-GCST006061,Tea intake,IVW radial,32,-0.0441679794584623,0.104810020513552,0.673455796853512,Tea intake

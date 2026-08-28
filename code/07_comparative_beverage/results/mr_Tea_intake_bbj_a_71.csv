@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-6066,bbj-a-71,bbj-a-71,Tea intake,Inverse variance weighted,36,0.0565587701681545,0.358541542222233,0.874656344781974
+ukb-b-6066,bbj-a-71,bbj-a-71,Tea intake,MR Egger,36,1.0053510958197,1.00625670707017,0.324804114303452
+ukb-b-6066,bbj-a-71,bbj-a-71,Tea intake,Weighted median,36,0.338574143374487,0.39807325090248,0.395029230430721
+ukb-b-6066,bbj-a-71,bbj-a-71,Tea intake,Weighted mode,36,0.40651858754201,0.400390772734802,0.316928236346835

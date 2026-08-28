@@ -1,0 +1,22 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,outcome_label
+ebi-a-GCST006061,ukb-b-8442,Sugar added to tea,Atrial fibrillation (AFGen 2018),Inverse variance weighted,92,-0.0149308743344665,0.0068917400533325,0.0302738913872913,Sugar added to tea
+ebi-a-GCST006061,ukb-b-8442,Sugar added to tea,Atrial fibrillation (AFGen 2018),Weighted median,92,-0.0138054349135896,0.010601930181095,0.192860873520606,Sugar added to tea
+ebi-a-GCST006061,ukb-b-8442,Sugar added to tea,Atrial fibrillation (AFGen 2018),MR Egger,92,-0.0320194887198782,0.0168252691153453,0.0602292989496822,Sugar added to tea
+ebi-a-GCST006061,ukb-b-243,Sugar added to coffee,Atrial fibrillation (AFGen 2018),Inverse variance weighted,92,0.00149885116594907,0.00699093885986947,0.830235824902448,Sugar added to coffee
+ebi-a-GCST006061,ukb-b-243,Sugar added to coffee,Atrial fibrillation (AFGen 2018),Weighted median,92,0.00239375373428812,0.0105538625028053,0.820569116389471,Sugar added to coffee
+ebi-a-GCST006061,ukb-b-243,Sugar added to coffee,Atrial fibrillation (AFGen 2018),MR Egger,92,0.00530773748821763,0.0171791745421976,0.758063402399599,Sugar added to coffee
+ebi-a-GCST006061,ukb-b-2832,Fizzy drink intake SSB,Atrial fibrillation (AFGen 2018),Inverse variance weighted,92,0.00384972949004295,0.0063107941138387,0.541846578899961,Fizzy drink intake SSB
+ebi-a-GCST006061,ukb-b-2832,Fizzy drink intake SSB,Atrial fibrillation (AFGen 2018),Weighted median,92,-0.0112024301923271,0.00910722434789139,0.218674727432596,Fizzy drink intake SSB
+ebi-a-GCST006061,ukb-b-2832,Fizzy drink intake SSB,Atrial fibrillation (AFGen 2018),MR Egger,92,-0.00990484250475269,0.0154311483306447,0.522586947905413,Fizzy drink intake SSB
+ebi-a-GCST006061,ukb-b-19703,Low-calorie drink intake ASB,Atrial fibrillation (AFGen 2018),Inverse variance weighted,92,-0.00695495784295952,0.00897258838717863,0.438260514599643,Low-calorie drink intake ASB
+ebi-a-GCST006061,ukb-b-19703,Low-calorie drink intake ASB,Atrial fibrillation (AFGen 2018),Weighted median,92,0.00304988413213104,0.0136348962091373,0.823004565910153,Low-calorie drink intake ASB
+ebi-a-GCST006061,ukb-b-19703,Low-calorie drink intake ASB,Atrial fibrillation (AFGen 2018),MR Egger,92,-0.0270720614952484,0.0219330787248657,0.220303291218288,Low-calorie drink intake ASB
+ebi-a-GCST006061,ukb-b-5867,Artificial sweetener added to tea,Atrial fibrillation (AFGen 2018),Inverse variance weighted,92,0.00937047348352112,0.00597826935055531,0.117015984086137,Artificial sweetener added to tea
+ebi-a-GCST006061,ukb-b-5867,Artificial sweetener added to tea,Atrial fibrillation (AFGen 2018),Weighted median,92,0.00743343515803569,0.00817307493512672,0.363084740470249,Artificial sweetener added to tea
+ebi-a-GCST006061,ukb-b-5867,Artificial sweetener added to tea,Atrial fibrillation (AFGen 2018),MR Egger,92,0.0106236969066505,0.0146946888527759,0.471578074865828,Artificial sweetener added to tea
+ebi-a-GCST006061,ukb-b-5237,Coffee intake,Atrial fibrillation (AFGen 2018),Inverse variance weighted,92,-0.00221613359289408,0.00298837553547828,0.458338992680562,Coffee intake
+ebi-a-GCST006061,ukb-b-5237,Coffee intake,Atrial fibrillation (AFGen 2018),Weighted median,92,-0.00799888676343895,0.00435741717716405,0.0664028512707148,Coffee intake
+ebi-a-GCST006061,ukb-b-5237,Coffee intake,Atrial fibrillation (AFGen 2018),MR Egger,92,-0.0139854926672711,0.00721933857390339,0.0558537981745446,Coffee intake
+ebi-a-GCST006061,ukb-b-6066,Tea intake,Atrial fibrillation (AFGen 2018),Inverse variance weighted,92,-0.00628106952715805,0.00433002626324384,0.146895558871913,Tea intake
+ebi-a-GCST006061,ukb-b-6066,Tea intake,Atrial fibrillation (AFGen 2018),Weighted median,92,-0.00325861308921854,0.00617751435244371,0.597849308262212,Tea intake
+ebi-a-GCST006061,ukb-b-6066,Tea intake,Atrial fibrillation (AFGen 2018),MR Egger,92,0.00518260497521884,0.01056221356304,0.624851182260468,Tea intake

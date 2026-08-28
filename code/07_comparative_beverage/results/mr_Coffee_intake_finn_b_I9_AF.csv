@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-5237,finn-b-I9_AF,finn-b-I9_AF,Coffee intake,Inverse variance weighted,38,0.496022895013322,0.265197973848847,0.0614300685522178
+ukb-b-5237,finn-b-I9_AF,finn-b-I9_AF,Coffee intake,MR Egger,38,0.477882178975085,0.540562847251299,0.382537831502788
+ukb-b-5237,finn-b-I9_AF,finn-b-I9_AF,Coffee intake,Weighted median,38,0.26252359382678,0.262969047388975,0.318130969542983
+ukb-b-5237,finn-b-I9_AF,finn-b-I9_AF,Coffee intake,Weighted mode,38,0.304813779405675,0.265617718596529,0.258514090288191

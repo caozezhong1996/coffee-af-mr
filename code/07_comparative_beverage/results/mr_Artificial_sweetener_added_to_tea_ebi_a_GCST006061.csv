@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-5867,ebi-a-GCST006061,ebi-a-GCST006061,Artificial sweetener added to tea,Inverse variance weighted,14,-0.00246755434594354,0.132303157689182,0.98511970981571
+ukb-b-5867,ebi-a-GCST006061,ebi-a-GCST006061,Artificial sweetener added to tea,MR Egger,14,0.153759626738493,0.330663716862841,0.650253989094488
+ukb-b-5867,ebi-a-GCST006061,ebi-a-GCST006061,Artificial sweetener added to tea,Weighted median,14,-0.0925803702931801,0.187280396473684,0.621065404989265
+ukb-b-5867,ebi-a-GCST006061,ebi-a-GCST006061,Artificial sweetener added to tea,Weighted mode,14,-0.105052585681568,0.220435963996725,0.641580886473701

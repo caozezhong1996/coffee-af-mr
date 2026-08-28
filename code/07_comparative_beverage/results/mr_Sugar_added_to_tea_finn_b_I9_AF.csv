@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-8442,finn-b-I9_AF,finn-b-I9_AF,Sugar added to tea,Inverse variance weighted,20,-0.334368769709647,0.253040745029163,0.186367065656856
+ukb-b-8442,finn-b-I9_AF,finn-b-I9_AF,Sugar added to tea,MR Egger,20,-0.378556080927843,0.778816399038609,0.632785050679354
+ukb-b-8442,finn-b-I9_AF,finn-b-I9_AF,Sugar added to tea,Weighted median,20,0.126241779786461,0.260672304322469,0.62817792266126
+ukb-b-8442,finn-b-I9_AF,finn-b-I9_AF,Sugar added to tea,Weighted mode,20,0.230860083496907,0.37246344065023,0.542739255934833

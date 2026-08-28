@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+ukb-b-2832,finn-b-I9_AF,finn-b-I9_AF,Fizzy drink intake SSB,MR Egger,9.55310064473047,9,0.387859229236823
+ukb-b-2832,finn-b-I9_AF,finn-b-I9_AF,Fizzy drink intake SSB,Inverse variance weighted,10.0159694874607,10,0.439093343578678

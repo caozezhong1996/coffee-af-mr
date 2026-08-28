@@ -1,0 +1,16 @@
+study,cohort,country,n_participants,af_cases,followup_y,exposure_unit,data_source,extraction_source,used_in
+Larsson 2015 COSM,Cohort of Swedish Men,Sweden,41881,4311,12,cups/day,"per-category cases+PY+multivariable RR",PMC4579587 Table 2,per-cup GL trend
+Larsson 2015 SMC,Swedish Mammography Cohort,Sweden,34594,2730,12,cups/day,"per-category cases+PY+multivariable RR",PMC4579587 Table 2,per-cup GL trend
+Mostofsky 2016,Danish Diet Cancer and Health,Denmark,55504,3309,13.5,cups/day,"per-category N+cases+PY+multivariable HR",PMC6026854 Table 2,per-cup GL trend
+Bodar 2019 PHS,Physicians' Health Study,USA,18960,2098,9,cups/day,"per-category cases+IR+multivariable HR (Model 3)",PMC6761675 Table 2,per-cup GL trend
+Kim 2021,UK Biobank,UK,386258,NA (16979 all arrhythmias),4.5,cups/day,directly reported per-cup HR 0.97 (0.96-0.98),PMID 34279564 abstract,per-cup trend (as reported)
+Wilhelmsen 2001,Multifactor Primary Prevention Study,Sweden,7374,754,27,cups/day,category RR (0 / 1-4 / >=5),Larsson 2015 Table 3 (PMC4579587),high-vs-low
+Conen 2010,Women's Health Study,USA,33638,936,14.4,cups/day,category RR (0/<1/1/2-3/>=4),Larsson 2015 Table 3 (PMC4579587),high-vs-low
+Klatsky 2011,California Comprehensive Health Care Plan,USA,130054,1512,17.6,cups/day,category RR (0/<1/1-3/>=4),Larsson 2015 Table 3 (PMC4579587),high-vs-low
+Bazal 2021,SUN + PREDIMED,Spain,25462,NA,NA,cups/day,"category HR (<=3/mo / 1-7/wk / >1/d), both-cohort meta",PMID 34021573 abstract,high-vs-low
+Sehrawat 2023,MESA,USA,NA,NA,6.4,cups/week,any (>=1 cup/wk) vs none HR 1.40; SE derived from P=0.015,PMID 36334435 abstract,high-vs-low (sensitivity-excluded outlier)
+Mattina 2018,Italian general-population cohort,Italy,NA,NA,12,caffeine tertiles,3rd vs 1st tertile HR 0.249 (0.161-0.458),PMID 29692210 abstract,high-vs-low (sensitivity-excluded outlier)
+Shen 2011,Framingham Heart Study,USA,4526,296,4,caffeine quartiles,Q4 vs Q1 HR 0.98 (0.70-1.39),PMID 21106919 abstract,excluded from pooling (caffeine unit; superseded coverage)
+Frost 2005,Danish Diet Cancer and Health,Denmark,47949,555,5.7,caffeine quintiles,Q5 vs Q1 HR 0.91 (0.70-1.19),PMID 15755825 abstract,excluded (same cohort superseded by Mostofsky 2016)
+Mukamal 2009,Stockholm Heart Epidemiology Program,Sweden,1369,163,9.9,cups/day,category RR,Larsson 2015 Table 3,excluded (post-MI survivors; secondary prevention)
+Zheng 2025,UK Biobank (imaging subset),UK,NA,NA,cross-sectional,cups/day,per-cup OR 0.89 (0.84-0.93) prevalent,PMID 39613205 abstract,excluded (prevalent odds; not incident)

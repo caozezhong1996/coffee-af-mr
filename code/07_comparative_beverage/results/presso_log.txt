@@ -1,0 +1,27 @@
+Warning message:
+package 'data.table' was built under R version 4.6.1 
+
+###  Coffee_intake_ebi_a_GCST006061 
+       Exposure       MR Analysis Causal Estimate        Sd   T-stat   P-value
+1 beta.exposure               Raw       0.2287197 0.1060389 2.156942 0.0383907
+2 beta.exposure Outlier-corrected              NA        NA       NA        NA
+Global test P: 0.04 
+outliers (P<0.05): 0 
+Distortion P: NA 
+saved
+
+###  Sugar_added_to_coffee_ebi_a_GCST006061 
+       Exposure       MR Analysis Causal Estimate         Sd   T-stat
+1 beta.exposure               Raw      -0.2166316 0.09998549 -2.16663
+2 beta.exposure Outlier-corrected              NA         NA       NA
+     P-value
+1 0.04800512
+2         NA
+Global test P: 0.375 
+saved
+Warning messages:
+1: In mr_presso(BetaOutcome = "beta.outcome", BetaExposure = "beta.exposure",  :
+  No outlier were identified, therefore the results for the outlier-corrected MR are set to NA
+2: In mr_presso(BetaOutcome = "beta.outcome", BetaExposure = "beta.exposure",  :
+  No outlier were identified, therefore the results for the outlier-corrected MR are set to NA
+ALL DONE

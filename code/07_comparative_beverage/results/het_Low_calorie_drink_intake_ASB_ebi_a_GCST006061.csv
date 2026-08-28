@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+ukb-b-19703,ebi-a-GCST006061,ebi-a-GCST006061,Low-calorie drink intake ASB,MR Egger,9.5933927408199,15,0.844507686617982
+ukb-b-19703,ebi-a-GCST006061,ebi-a-GCST006061,Low-calorie drink intake ASB,Inverse variance weighted,9.71287640279961,16,0.88118621732403

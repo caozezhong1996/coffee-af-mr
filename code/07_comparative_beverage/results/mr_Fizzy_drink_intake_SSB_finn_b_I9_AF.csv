@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-2832,finn-b-I9_AF,finn-b-I9_AF,Fizzy drink intake SSB,Inverse variance weighted,11,-0.00856076679914929,0.245298039310552,0.972159918725065
+ukb-b-2832,finn-b-I9_AF,finn-b-I9_AF,Fizzy drink intake SSB,MR Egger,11,0.376591976657656,0.635569051650656,0.568084132774472
+ukb-b-2832,finn-b-I9_AF,finn-b-I9_AF,Fizzy drink intake SSB,Weighted median,11,0.077298200857504,0.35048684760322,0.825446554432067
+ukb-b-2832,finn-b-I9_AF,finn-b-I9_AF,Fizzy drink intake SSB,Weighted mode,11,0.183977906075051,0.501202642707118,0.721213324699383

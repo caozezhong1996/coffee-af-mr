@@ -1,0 +1,57 @@
+remote main: 6bb31a174574a12df2836188e3db25669b0297a3
+  skip (too large for this network): code/09_colocalization/coffee_vcf_associations.csv
+  skip (too large for this network): code/09_colocalization/fg_windows_500kb.tsv
+  skip (too large for this network): code/09_colocalization/nei_windows_500kb.tsv
+to upload: 163
+  [finalize_log.txt] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [finalize_log.txt] attempt 2 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+Traceback (most recent call last):
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\urllib\request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\http\client.py", line 1386, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\http\client.py", line 1432, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\http\client.py", line 1381, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\http\client.py", line 1180, in _send_output
+    self.send(chunk)
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\http\client.py", line 1105, in send
+    self.sock.sendall(data)
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\ssl.py", line 1210, in sendall
+    v = self.send(byte_view[count:])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\ssl.py", line 1179, in send
+    return self._sslobj.write(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [Errno 10053] 你的主机中的软件中止了一个已建立的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\64915\Documents\kimi\workspace\coffee_af_repo\push_finalize.py", line 85, in <module>
+    blob = req("POST", f"{API}/repos/{REPO}/git/blobs", payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\64915\Documents\kimi\workspace\coffee_af_repo\push_finalize.py", line 41, in req
+    raise last
+  File "C:\Users\64915\Documents\kimi\workspace\coffee_af_repo\push_finalize.py", line 34, in req
+    with urllib.request.urlopen(r, timeout=120) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\urllib\request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\urllib\request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\urllib\request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\urllib\request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\urllib\request.py", line 1392, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\64915\AppData\Roaming\kimi-desktop\daimon-bundle\runtime\python\cpython-3.12\Lib\urllib\request.py", line 1347, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 10053] 你的主机中的软件中止了一个已建立的连接。>

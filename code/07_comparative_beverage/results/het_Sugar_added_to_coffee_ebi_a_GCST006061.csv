@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+ukb-b-243,ebi-a-GCST006061,ebi-a-GCST006061,Sugar added to coffee,MR Egger,13.491523241124,13,0.410601086900108
+ukb-b-243,ebi-a-GCST006061,ebi-a-GCST006061,Sugar added to coffee,Inverse variance weighted,15.182123905983,14,0.365819348839365

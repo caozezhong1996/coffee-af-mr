@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-243,ebi-a-GCST006061,ebi-a-GCST006061,Sugar added to coffee,Inverse variance weighted,15,-0.216631593523885,0.0999854901941329,0.030263054403571
+ukb-b-243,ebi-a-GCST006061,ebi-a-GCST006061,Sugar added to coffee,MR Egger,15,0.117677394383292,0.279597790955707,0.680716725131103
+ukb-b-243,ebi-a-GCST006061,ebi-a-GCST006061,Sugar added to coffee,Weighted median,15,-0.196058609587866,0.131433752056382,0.135780040775743
+ukb-b-243,ebi-a-GCST006061,ebi-a-GCST006061,Sugar added to coffee,Weighted mode,15,-0.106168126289439,0.228884429244231,0.649884859011352

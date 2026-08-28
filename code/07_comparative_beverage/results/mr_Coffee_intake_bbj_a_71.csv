@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-5237,bbj-a-71,bbj-a-71,Coffee intake,Inverse variance weighted,32,0.84980745566422,0.353557630132675,0.0162349863193561
+ukb-b-5237,bbj-a-71,bbj-a-71,Coffee intake,MR Egger,32,0.708382760087969,0.748061372930817,0.35122589211881
+ukb-b-5237,bbj-a-71,bbj-a-71,Coffee intake,Weighted median,32,0.540448430368233,0.420172011800151,0.198354015933404
+ukb-b-5237,bbj-a-71,bbj-a-71,Coffee intake,Weighted mode,32,0.694152016875114,0.457856621480923,0.139628327240161

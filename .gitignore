@@ -25,3 +25,6 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+
+# Curated v1.2 module result files kept under version control
+!code/09_colocalization/*.tsv

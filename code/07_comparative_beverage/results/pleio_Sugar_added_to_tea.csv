@@ -1,0 +1,2 @@
+id.exposure,id.outcome,outcome,exposure,egger_intercept,se,pval
+ukb-b-8442,ebi-a-GCST006061,"Atrial fibrillation (AFGen 2018, EUR)",Sugar added to tea,-0.00875297609080501,0.00818539226080664,0.301822807295405

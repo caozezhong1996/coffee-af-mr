@@ -1,0 +1,48 @@
+remote main: 6bb31a174574a12df2836188e3db25669b0297a3
+  skip (too large for this network): code/09_colocalization/coffee_vcf_associations.csv
+  skip (too large for this network): code/09_colocalization/fg_windows_500kb.tsv
+  skip (too large for this network): code/09_colocalization/nei_windows_500kb.tsv
+to upload: 162
+  [code/07_comparative_beverage/results/dat_Artificial_sweetener_added_to_tea_ebi_a_GCST006061.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  blobs 25/162
+  [code/07_comparative_beverage/results/dat_Fizzy_drink_intake_SSB_ebi_a_GCST006061.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/dat_Low_calorie_drink_intake_ASB_bbj_a_71.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  blobs 50/162
+  blobs 75/162
+  blobs 100/162
+remote main: 6bb31a174574a12df2836188e3db25669b0297a3
+  skip (too large for this network): code/09_colocalization/coffee_vcf_associations.csv
+  skip (too large for this network): code/09_colocalization/fg_windows_500kb.tsv
+  skip (too large for this network): code/09_colocalization/nei_windows_500kb.tsv
+to upload: 162
+  [code/07_comparative_beverage/results/dat_Artificial_sweetener_added_to_tea_ebi_a_GCST006061.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Artificial_sweetener_added_to_tea.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Artificial_sweetener_added_to_tea.csv] attempt 2 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Artificial_sweetener_added_to_tea.csv] attempt 3 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Artificial_sweetener_added_to_tea.csv] attempt 4 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Fizzy_drink_intake_SSB.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Fizzy_drink_intake_SSB.csv] attempt 2 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Fizzy_drink_intake_SSB.csv] attempt 3 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Fizzy_drink_intake_SSB.csv] attempt 4 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+remote main: 6bb31a174574a12df2836188e3db25669b0297a3
+  skip (too large for this network): code/09_colocalization/coffee_vcf_associations.csv
+  skip (too large for this network): code/09_colocalization/fg_windows_500kb.tsv
+  skip (too large for this network): code/09_colocalization/nei_windows_500kb.tsv
+to upload: 162
+  [code/07_comparative_beverage/results/revdat_AF_Low_calorie_drink_intake_ASB.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Low_calorie_drink_intake_ASB.csv] attempt 2 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Low_calorie_drink_intake_ASB.csv] attempt 3 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Low_calorie_drink_intake_ASB.csv] attempt 4 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Low_calorie_drink_intake_ASB.csv] attempt 5 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Sugar_added_to_coffee.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Sugar_added_to_coffee.csv] attempt 2 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/07_comparative_beverage/results/revdat_AF_Sugar_added_to_coffee.csv] attempt 3 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+remote main: 6bb31a174574a12df2836188e3db25669b0297a3
+  skip (too large for this network): code/09_colocalization/coffee_vcf_associations.csv
+  skip (too large for this network): code/09_colocalization/fg_windows_500kb.tsv
+  skip (too large for this network): code/09_colocalization/nei_windows_500kb.tsv
+to upload: 162
+  [code/07_comparative_beverage/results/revdat_AF_Low_calorie_drink_intake_ASB.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  blobs 125/162
+  [code/07_comparative_beverage/results/singlesnp_Fizzy_drink_intake_SSB_AFGen.csv] attempt 1 HTTP 400: {"message": "We received a malformed request from your client. Sorry about that. Please try resubmitting your request and contact us if the problem pe
+  [code/09_colocalization/coffee_pcmtd2_fix.csv] attempt 1 HTTP 401: {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}

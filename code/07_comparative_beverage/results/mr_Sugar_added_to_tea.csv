@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-8442,ebi-a-GCST006061,"Atrial fibrillation (AFGen 2018, EUR)",Sugar added to tea,Inverse variance weighted,17,-0.0282437931866662,0.107615639218598,0.792974036841846
+ukb-b-8442,ebi-a-GCST006061,"Atrial fibrillation (AFGen 2018, EUR)",Sugar added to tea,MR Egger,17,0.289053313475274,0.315471363440505,0.374027686042526
+ukb-b-8442,ebi-a-GCST006061,"Atrial fibrillation (AFGen 2018, EUR)",Sugar added to tea,Weighted median,17,0.129036540293533,0.132825859968001,0.331313527866295
+ukb-b-8442,ebi-a-GCST006061,"Atrial fibrillation (AFGen 2018, EUR)",Sugar added to tea,Weighted mode,17,0.14416324133754,0.208049609869263,0.49829068713235

@@ -1,0 +1,5 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+ukb-b-243,finn-b-I9_AF,finn-b-I9_AF,Sugar added to coffee,Inverse variance weighted,16,-0.103357999486558,0.206989646139736,0.617540596363323
+ukb-b-243,finn-b-I9_AF,finn-b-I9_AF,Sugar added to coffee,MR Egger,16,0.310396428659113,0.381195940355051,0.42912377439242
+ukb-b-243,finn-b-I9_AF,finn-b-I9_AF,Sugar added to coffee,Weighted median,16,0.12853889280447,0.226734420251684,0.570772684860012
+ukb-b-243,finn-b-I9_AF,finn-b-I9_AF,Sugar added to coffee,Weighted mode,16,0.179048231465729,0.252781870855138,0.489613750474193
