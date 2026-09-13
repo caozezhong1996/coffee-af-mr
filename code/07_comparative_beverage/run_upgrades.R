@@ -4,7 +4,7 @@
 #   2) Steiger directionality test + steiger filtering
 #   3) radial IVW + RAPS sensitivity estimators
 #   4) leave-one-out + single-SNP data (for Figure S1)
-.libPaths("C:/Users/曹泽众/Documents/kimi/workspace/Rlib")
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
 suppressMessages({library(data.table); library(TwoSampleMR)})
 outdir <- "C:/Users/曹泽众/Documents/kimi/workspace/mr_results"
 

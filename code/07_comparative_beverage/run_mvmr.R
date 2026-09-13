@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 # Multivariable MR: coffee intake + sugar added to tea + BMI -> AF (AFGen EUR)
-.libPaths("C:/Users/曹泽众/Documents/kimi/workspace/Rlib")
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
 suppressMessages({library(data.table); library(ieugwasr); library(TwoSampleMR)})
 outdir <- "C:/Users/曹泽众/Documents/kimi/workspace/mr_results"
 

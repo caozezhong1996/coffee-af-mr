@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 # Reverse MR: atrial fibrillation (AFGen) -> beverage intake phenotypes
-.libPaths("C:/Users/曹泽众/Documents/kimi/workspace/Rlib")
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
 suppressMessages({library(data.table); library(ieugwasr); library(TwoSampleMR)})
 outdir <- "C:/Users/曹泽众/Documents/kimi/workspace/mr_results"
 

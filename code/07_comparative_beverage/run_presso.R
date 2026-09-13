@@ -1,4 +1,4 @@
-.libPaths("C:/Users/曹泽众/Documents/kimi/workspace/Rlib")
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
 suppressMessages({library(data.table); library(MRPRESSO)})
 outdir <- "C:/Users/曹泽众/Documents/kimi/workspace/mr_results"
 for (tag in c("Coffee_intake_ebi_a_GCST006061", "Sugar_added_to_coffee_ebi_a_GCST006061")) {

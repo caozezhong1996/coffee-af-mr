@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 # args: outcome_id   -- loops all exposures, skips completed ones
-.libPaths("C:/Users/曹泽众/Documents/kimi/workspace/Rlib")
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
 suppressMessages({library(data.table); library(ieugwasr); library(TwoSampleMR)})
 outdir <- "C:/Users/曹泽众/Documents/kimi/workspace/mr_results"
 args <- commandArgs(trailingOnly = TRUE)

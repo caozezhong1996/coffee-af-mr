@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 # Core univariable MR: beverage exposures -> AF (AFGen, European)
-.libPaths("C:/Users/曹泽众/Documents/kimi/workspace/Rlib")
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
 suppressMessages({
   library(data.table); library(dplyr); library(ieugwasr); library(TwoSampleMR)
 })

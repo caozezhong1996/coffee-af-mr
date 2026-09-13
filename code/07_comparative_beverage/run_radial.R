@@ -1,4 +1,4 @@
-.libPaths("C:/Users/曹泽众/Documents/kimi/workspace/Rlib")
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
 suppressMessages({library(data.table); library(TwoSampleMR)})
 outdir <- "C:/Users/曹泽众/Documents/kimi/workspace/mr_results"
 exposures <- list(
